@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Razan Abdalrahman .
+- 🎓 Computer Engineer Student @ Birzeit University .
+- 👀 I’m interested in artificial intelligence .
+- 📫 How to reach ME razanmuzahem65@gmail.com .
