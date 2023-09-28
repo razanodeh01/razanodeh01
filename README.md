@@ -1,4 +1,4 @@
-<img align="center" width="700" height="400" src="https://i.pinimg.com/750x/3c/70/9b/3c709b36e922d169cb3282087755d055.jpg"  alt="razanodeh01" /></p>
+<img align="center" width="600" height="400" src="https://i.pinimg.com/750x/3c/70/9b/3c709b36e922d169cb3282087755d055.jpg"  alt="razanodeh01" /></p>
 <h1 align="center">👋Hi , I'm Razan Abdalrahman</h1>
 
 - 👋 Hi,**I’m Razan Abdalrahman.**
