@@ -44,7 +44,7 @@
    <a href="https://www.w3schools.com/python/default.asp" target="blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-</p>
+
 
  <> Frontend Development.
 <p align="left"> 
@@ -57,8 +57,6 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
  
-  
-
  <> Software & Tools.
  
 <p align="left">
@@ -111,7 +109,7 @@
 
 
     
-## Let's Connect..!
+## | Let's Connect..!
 <br>
 <div align='left'>
 <ul>
